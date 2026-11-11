@@ -32,3 +32,7 @@ The knowledge example checks that the guidance text still matches its approval, 
 The executed examples have 30 migration tests and 29 knowledge-gate tests. The recorded results describe the supplied fixtures and local controls. A clean migration batch still requires record-owner signoff and platform checks.
 
 [Read the Work Samples, pages 3–4 and 6](../docs/Ingrid_Kao_Work_Samples.pdf)
+
+## Subcontract administration
+
+The [construction workflow](https://github.com/ingridkuo/legal-workflow-lab/tree/main/07_construction_workflow) includes a Python approval engine, 38 tests, an Excel tracker and a workflow specification. It separates approval from signature authority, blocks requester self-approval, checks documents before signature and tracks guarantees after execution. A companion issues list compares AIA A201-2017 with Taiwan PCC model terms from an owner-side perspective.
