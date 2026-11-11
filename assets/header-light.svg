@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
+<title id="title">Ingrid Kao — legal work and technology</title><desc id="desc">Commercial contracts, legal operations and legal AI. A compact profile header.</desc>
+<rect x="1" y="1" width="958" height="188" rx="14" fill="#f6f8fa" stroke="#d8dee4"/>
+<rect x="32" y="27" width="22" height="4" rx="2" fill="#4c52cf"/>
+<text x="65" y="34" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#59636e">ingridkuo / selected work</text>
+<text x="32" y="91" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="39" font-weight="600" letter-spacing="-1" fill="#1f2328">Ingrid Kao</text>
+<text x="33" y="123" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="17" fill="#59636e">Commercial contracts · Legal operations · Legal AI</text>
+<line x1="598" y1="31" x2="598" y2="157" stroke="#d8dee4"/>
+<text x="629" y="59" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="1" fill="#59636e">HOW I WORK</text>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16" fill="#1f2328">
+<text x="629" y="90">Read the source.</text><text x="629" y="117">Make the judgment.</text><text x="629" y="144">Give it a next step.</text></g>
+<circle cx="33" cy="156" r="3" fill="#4c52cf"/>
+<text x="44" y="160" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" fill="#59636e">Taiwan-qualified attorney / Berkeley Law LL.M.</text>
+</svg>
