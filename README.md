@@ -1,15 +1,17 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Ingrid Kao — commercial contracts, legal operations and legal AI" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img src="assets/header-light.png" alt="Ingrid Kao: commercial contracts, legal operations and legal AI" width="960">
 </picture>
 
 # Ingrid Kao
 
-**Taiwan-qualified attorney · UC Berkeley Law, LL.M. (2026)**
+**Taiwan-qualified attorney · UC Berkeley Master of Laws (2026)**
 
 I work on commercial agreements, contract workflows and legal review rules. At Lawsnote, I translated an enterprise client's NDA standards into rules engineers built into an AI contract-review product. As sole in-house counsel, I built a contract filing and approval process and followed agreements through acceptance and payment.
 
-[Portfolio](https://ingridkao.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/ingrid-kao-1702aa26b/) · [Email](mailto:kuoingrid0118@gmail.com)
+Eligible to work as foreign-licensed in-house counsel in 24 U.S. jurisdictions, including New York, Arizona, and Washington.
+
+[Portfolio](https://ingridkao.netlify.app/) · [Publications](https://ingridkao.netlify.app/publications/) · [LinkedIn](https://www.linkedin.com/in/ingrid-kao-1702aa26b/) · [Email](mailto:kuoingrid0118@gmail.com)
 
 ## Selected work
 
