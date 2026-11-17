@@ -9,9 +9,9 @@
 
 I work on commercial agreements, contract workflows and legal review rules. At Lawsnote, I translated an enterprise client's NDA standards into rules engineers built into an AI contract-review product. As sole in-house counsel, I built a contract filing and approval process and followed agreements through acceptance and payment.
 
-Eligible to work as foreign-licensed in-house counsel in 24 U.S. jurisdictions, including New York, Arizona, and Washington.
+Eligible as foreign-licensed in-house counsel in 24 U.S. jurisdictions, including New York, Arizona, and Washington.
 
-[Portfolio](https://ingridkao.netlify.app/) · [Publications](https://ingridkao.netlify.app/publications/) · [LinkedIn](https://www.linkedin.com/in/ingrid-kao-1702aa26b/) · [Email](mailto:kuoingrid0118@gmail.com)
+[Portfolio](https://ingridkao.netlify.app/) · [All work](https://ingridkao.netlify.app/work/) · [Publications](https://ingridkao.netlify.app/publications/) · [LinkedIn](https://www.linkedin.com/in/ingrid-kao-1702aa26b/) · [Email](mailto:kuoingrid0118@gmail.com)
 
 ## Selected work
 
@@ -29,6 +29,6 @@ A signed technology license, a raised liability cap, and equipment acceptance li
 
 [Read the six-page Work Samples](docs/Ingrid_Kao_Work_Samples.pdf)
 
-The working examples use Python, SQLite, JavaScript, Excel and XML/JSON. My platform experience includes DocuSign CLM and Ironclad test workflows.
+The working examples use Python, SQLite, JavaScript, Excel and XML/JSON, with source and tests in [legal-workflow-lab](https://github.com/ingridkuo/legal-workflow-lab). My platform experience includes DocuSign CLM and Ironclad test workflows.
 
 Outside work: hiking, piano and calligraphy.
