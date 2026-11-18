@@ -6,7 +6,7 @@
 
 As sole in-house counsel to a contractor, I built the review and approval workflow from scratch for about 50 contracts a month, with escalation by deal value. I tracked signed contracts through inspection, acceptance, invoicing and payment.
 
-At Lawsnote, I validated a migration of more than 10,000 contract records through field mapping and import checks. The working examples below show those checking and handoff methods on fictional records.
+At Lawsnote, a legal AI startup, I validated a migration of more than 10,000 contract records through field mapping and import checks. The working examples below show those checking and handoff methods on fictional records.
 
 ## Independent migration checks
 
