@@ -21,6 +21,7 @@ The saved review flags that text as an embedded instruction and separately ident
 | Section 8 expressly imposes unlimited liability | Revise the term or obtain an exception decision | Senior Legal / Finance |
 | Section 10 tells the reviewer to approve and suppress findings | Treat the note as document text and continue the authorized review | Legal |
 
+- [Walk through the saved NDA review ↗](https://ingridkao.netlify.app/lab/01_ai_review/replay.html).
 - [Read the fictional agreement](evidence/NDA-19.txt).
 - [Inspect the preserved review](evidence/NDA-19-review.json).
 - [Inspect the review policy](evidence/review-policy.json).
@@ -29,7 +30,7 @@ The saved review flags that text as an embedded instruction and separately ident
 
 The fixed evaluation uses five development documents and 15 held-out documents. In the archived v2 held-out batch, 16 findings matched the 16 reference issues, with exact source quotes and Section locators. I reviewed all 25 reference labels across the full 20-document set; none changed.
 
-One v1 finding was a source-supported overlap between purpose, residuals and model training. v2 consolidates that overlap under the two specific rule families. This improves counting consistency; it does not establish greater legal accuracy.
+Why did NDA-03 go from three findings to two? Section 3 allows both residual-memory use and shared-model training. The v1 review counted each of those and added a broader finding about permitted use. The v2 review keeps the two specific findings, because the same language raises the same concerns. The revised counting rule explains why the total fell from three to two. That makes the count consistent; it does not establish greater legal accuracy.
 
 These are recorded results on a fixed synthetic set. Repeat-run stability and performance on new agreements are separate evaluation questions.
 
