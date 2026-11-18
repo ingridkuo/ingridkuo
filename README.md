@@ -9,7 +9,7 @@
 
 At Lawsnote, a legal AI startup, I translated an enterprise client's NDA standards into rules engineers built into an AI contract-review product. As sole in-house counsel at a construction contractor, I built the review and approval process for about 50 contracts a month and followed signed agreements through acceptance and payment.
 
-Eligible as foreign-licensed in-house counsel in 24 U.S. jurisdictions, including New York, Arizona, and Washington.
+Eligible to apply for in-house counsel registration in 24 U.S. jurisdictions, including New York, Arizona, and Washington.
 
 [Portfolio](https://ingridkao.netlify.app/) · [Six-page work samples (PDF)](docs/Ingrid_Kao_Work_Samples.pdf) · [LinkedIn](https://www.linkedin.com/in/ingrid-kao-1702aa26b/) · [Email](mailto:kuoingrid0118@gmail.com)
 
