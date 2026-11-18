@@ -22,7 +22,7 @@ I built a contract-by-contract record of delivery, acceptance evidence and payme
 
 ## Transaction execution and data permission
 
-I wrote a 17-step Taiwan corporate-division plan and a 12-stage cross-border acquisition plan. Both transactions closed. At Lawsnote, I worked on the Ministry of Justice permission for the AI product's legal-data source; the permission was obtained.
+I wrote a 17-step Taiwan corporate-division plan and a 12-stage cross-border acquisition plan. Both transactions closed. At Lawsnote, a legal AI startup, I worked on the Ministry of Justice permission for the AI product's legal-data source; the permission was obtained.
 
 [Read the five anonymized case studies](../docs/Selected_Case_Studies.pdf) · [Read the Work Samples](../docs/Ingrid_Kao_Work_Samples.pdf)
 
