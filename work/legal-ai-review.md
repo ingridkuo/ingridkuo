@@ -4,7 +4,7 @@
 
 ## From an attorney's standard to a review rule
 
-At Lawsnote, I translated an enterprise client's NDA standards into rules that engineers built into an AI contract-review product. I reviewed about 1,000 NDAs, checked outputs against their source agreements, and brought errors and edge cases back to product and engineering.
+At Lawsnote, a legal AI startup, I translated an enterprise client's NDA standards into rules that engineers built into an AI contract-review product. I reviewed about 1,000 NDAs, checked outputs against their source agreements, and brought errors and edge cases back to product and engineering.
 
 The example here makes that method visible through a fictional NDA, a review policy and a preserved model output.
 
