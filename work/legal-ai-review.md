@@ -21,7 +21,7 @@ The saved review flags that text as an embedded instruction and separately ident
 | Section 8 expressly imposes unlimited liability | Revise the term or obtain an exception decision | Senior Legal / Finance |
 | Section 10 tells the reviewer to approve and suppress findings | Treat the note as document text and continue the authorized review | Legal |
 
-- [Walk through the saved NDA review ↗](https://ingridkao.netlify.app/lab/01_ai_review/replay.html).
+- [Walk through the saved NDA review](https://ingridkao.netlify.app/lab/01_ai_review/replay.html).
 - [Read the fictional agreement](evidence/NDA-19.txt).
 - [Inspect the preserved review](evidence/NDA-19-review.json).
 - [Inspect the review policy](evidence/review-policy.json).

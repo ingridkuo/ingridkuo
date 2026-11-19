@@ -19,7 +19,7 @@ The validator compares the XML source with a separately saved JSON destination. 
 
 The four exception types are a missing owner, a destination-ID collision, an impossible date and a stale source revision. The collision affects two records, so four exception types hold five records. Missing amounts remain null; a known zero remains zero. The parser rejects DTD/entity input.
 
-- [Walk through the migration decision ↗](https://ingridkao.netlify.app/lab/05_solution_delivery/).
+- [Walk through the migration decision](https://ingridkao.netlify.app/lab/05_solution_delivery/).
 - [Inspect the flawed-batch report](evidence/migration-flawed.json).
 - [Inspect the corrected-batch report](evidence/migration-corrected.json).
 - [Download the contract operations tracker](../docs/Contract_Operations_Tracker.xlsx).
