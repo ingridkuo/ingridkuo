@@ -2,11 +2,13 @@
 
 # Commercial contract judgment
 
-## BMS licensing: separate ownership from use
+## Who owns the next improvement?
 
-I drafted and negotiated a cross-border patent and technology license for a battery-management system. The negotiation had stalled over ownership of improvements. I separated ownership from the rights needed to use the technology, then aligned those rights with sublicensing, transfer obligations and staged payments.
+My client was the licensee in a cross-border deal for an exclusive patent and technology license covering a battery management system. The licensor wanted to own all future improvements. My client planned to do its own R&D and wanted to keep the rights to its work.
 
-**Outcome:** the parties resolved the impasse, and both signed.
+I separated ownership of the improvements from the rights each side needed to use them. We also agreed that my client could sublicense the technology to its affiliates and manufacturing partners. Under the agreement, the second installment was due only after written confirmation that the technology transfer was complete.
+
+**Outcome:** both parties signed.
 
 ## Cloud services: align the cap with the remedy
 
