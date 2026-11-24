@@ -7,6 +7,8 @@
 
 **Taiwan-qualified attorney · UC Berkeley Master of Laws (2026)**
 
+Since November 2026, I've been in-house as a Legal Specialist at MornstAir in Phoenix. The company focuses on semiconductor air pollution treatment and process exhaust systems, and its equipment and services are deployed at TSMC's Fab 21 in Arizona.
+
 At Lawsnote, a legal AI startup, I translated an enterprise client's NDA standards into rules engineers built into an AI contract-review product. As sole in-house counsel at a construction contractor, I built the review and approval process for about 50 contracts a month and followed signed agreements through acceptance and payment.
 
 Eligible to apply for in-house counsel registration in New York, Arizona, Washington, and other U.S. jurisdictions.
