@@ -48,3 +48,5 @@ My [Legal Workflow Lab](https://github.com/ingridkuo/legal-workflow-lab) holds t
 [All work](https://ingridkao.netlify.app/work/) · [Publications](https://ingridkao.netlify.app/publications/)
 
 Outside work: hiking, piano and calligraphy.
+
+Views are my own and do not represent my employer.
